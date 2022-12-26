@@ -1,15 +1,3 @@
-# 🌟Model Architecture :
-<center><img src ="model.JPG"></center>
-
-## 🌟NOTE :-
-<ul>
-  <li>If pdf or ipython notebook will not load then please check markdown filde (.md)
-  </li>
-<li>I am not able to upload a large size model in github repo So you have to trained your model by yourself in your pc/laptop and Save as "plant_disease_model_1_latest.pt"</li>
-
-<li> For flask we use this trained model </li>
-
-<li> Make Sure if you change the model name then also changes required in flask app.py file </li></ul>
-
-## 🌟Blog Link ( Dataset link is in blog ):
-<a href="https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f" target="_blank">Plant Disease Detection using Convolutional Neural Network with PyTorch Implementation</a>
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f34cd9ec187ba499d7563369e7673519cc321b5b964c7ac54ab84eda2a0d69a
+size 796
